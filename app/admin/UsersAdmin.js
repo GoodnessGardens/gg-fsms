@@ -46,6 +46,7 @@ export default function UsersAdmin({ employees }) {
                   <select value={e.role} onChange={(ev) => setRole(e.id, ev.target.value)} style={{ margin: 0, padding: "4px 6px" }}>
                     <option value="employee">employee</option>
                     <option value="supervisor">supervisor</option>
+                    <option value="auditor">auditor</option>
                     <option value="admin">admin</option>
                   </select>
                 </td>
@@ -74,6 +75,7 @@ export default function UsersAdmin({ employees }) {
             <select value={f.role} onChange={set("role")}>
               <option value="employee">employee</option>
               <option value="supervisor">supervisor</option>
+              <option value="auditor">auditor (read-only, all sites)</option>
               <option value="admin">admin</option>
             </select></div>
           <div><label>Department</label>
