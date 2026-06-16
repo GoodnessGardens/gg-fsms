@@ -26,7 +26,7 @@ export default async function FoodSafetyHub() {
         </div>
       )}
       <div className="tiles">
-        <a className="tile" href="/foodsafety/audit">Primus Self-Audits<small>PrimusGFS internal audit checklists — Modules 1–7, scored, with history</small></a>
+        <a className="tile" href="/foodsafety/audit">Primus Self-Audits<small>All 6 PrimusGFS v4.0 modules — scored by points, site-scoped, with history</small></a>
         <a className="tile" href="/foodsafety/deviations">Deviations &amp; CAPA<small>{openDev.n} open · report, root cause, corrective actions</small></a>
         <a className="tile" href="/foodsafety/documents">Document Register<small>{docs.n} controlled documents — SOPs, logs, forms by Primus number</small></a>
         <a className="tile" href="/foodsafety/deviations/new">+ Report a Deviation<small>CCP failure, sanitation, pest, foreign material, complaint…</small></a>
