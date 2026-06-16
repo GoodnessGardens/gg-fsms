@@ -1,10 +1,12 @@
 import { NextResponse } from "next/server";
 import { sql } from "../../../lib/db";
 import { getSession } from "../../../lib/auth";
+import { liveRole, canEdit } from "../../../lib/roles";
 
 export async function POST(req) {
   const s = await getSession();
   if (!s) return NextResponse.json({ error: "Not signed in" }, { status: 401 });
+  if (!canEdit(await liveRole(s))) return NextResponse.json({ error: "Auditor accounts are read-only" }, { status: 403 });
   const { id, site, shift, unit, results } = await req.json();
   if (!id || !Array.isArray(results) || results.some((r) => !r.status))
     return NextResponse.json({ error: "Complete all items" }, { status: 400 });
