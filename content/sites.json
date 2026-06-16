@@ -1,0 +1,72 @@
+{
+  "sites": [
+    {
+      "code": "FL",
+      "name": "Florida",
+      "modules": [
+        1,
+        5
+      ]
+    },
+    {
+      "code": "NY",
+      "name": "New York",
+      "modules": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "code": "IN",
+      "name": "Indiana",
+      "modules": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "code": "TX",
+      "name": "Texas",
+      "modules": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "code": "VA",
+      "name": "Virginia",
+      "modules": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "code": "PA",
+      "name": "Pennsylvania",
+      "modules": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ]
+}
