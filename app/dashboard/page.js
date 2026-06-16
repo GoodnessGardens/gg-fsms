@@ -53,7 +53,7 @@ export default async function Dashboard() {
 
       <div className="tiles">
         <a className="tile" href="/foodsafety/documents">{G("Document Register", "Registro de Documentos")}<small>{docs} {G("controlled documents — SOPs, logs, forms by Primus number", "documentos controlados — SOPs, registros y formularios")}</small></a>
-        <a className="tile" href="/foodsafety/audit">{G("Primus Self-Audits", "Auto-Auditorías Primus")}<small>{G("PrimusGFS internal audit checklists — Modules 1–7, scored", "Listas de auditoría interna PrimusGFS — Módulos 1–7")}</small></a>
+        <a className="tile" href="/foodsafety/audit">{G("Primus Self-Audits", "Auto-Auditorías Primus")}<small>{G("All 6 PrimusGFS v4.0 modules — scored by points, site-scoped", "Los 6 módulos de PrimusGFS v4.0 — puntuados, por sitio")}</small></a>
         <a className="tile" href="/foodsafety/deviations">{G("Deviations & CAPA", "Desviaciones y CAPA")}<small>{openDev} {G("open · report, root cause, corrective actions", "abiertas · reporte, causa raíz, acciones correctivas")}</small></a>
         <a className="tile" href="/foodsafety/deviations/new">{G("+ Report a Deviation", "+ Reportar una Desviación")}<small>{G("CCP failure, sanitation, pest, foreign material, complaint…", "Falla de PCC, sanitización, plagas, material extraño…")}</small></a>
         <a className="tile" href="/checklists">{G("Checklists", "Listas de Verificación")}<small>{checklists} {G("daily & inspection checks", "verificaciones diarias y de inspección")}</small></a>
