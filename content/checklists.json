@@ -1,0 +1,1038 @@
+[
+  {
+    "id": "CL-001-1",
+    "department": "Receiving",
+    "title": {
+      "en": "Trailer Entry Authorization (Every Trailer)",
+      "es": "Autorización de Entrada a Remolque (Cada Remolque)"
+    },
+    "note": {
+      "en": "Complete before first entry into EVERY inbound trailer/container.",
+      "es": "Complete antes de la primera entrada a CADA remolque/contenedor entrante."
+    },
+    "items": [
+      {
+        "en": "Wheel chocks set OR dock lock engaged and verified",
+        "es": "Calzas puestas O retención de muelle activada y verificada"
+      },
+      {
+        "en": "Trailer brakes set; dock light set to 'do not move'",
+        "es": "Frenos del remolque puestos; luz del muelle en 'no mover'"
+      },
+      {
+        "en": "Driver in waiting area; keys/paperwork controlled",
+        "es": "Chofer en el área de espera; llaves/documentos controlados"
+      },
+      {
+        "en": "Uncoupled trailer: landing gear/fixed jacks verified",
+        "es": "Remolque desenganchado: patas de apoyo/gatos fijos verificados"
+      },
+      {
+        "en": "Doors opened from the side; load checked for shift/lean",
+        "es": "Puertas abiertas desde el costado; carga revisada por movimiento/inclinación"
+      },
+      {
+        "en": "Trailer floor inspected (holes, soft spots, water/ice, nails)",
+        "es": "Piso inspeccionado (agujeros, puntos blandos, agua/hielo, clavos)"
+      },
+      {
+        "en": "Dock leveler rated, seated, lip engaged on trailer bed",
+        "es": "Rampa clasificada, asentada, labio enganchado en el remolque"
+      },
+      {
+        "en": "Trailer interior lighting adequate",
+        "es": "Iluminación interior del remolque adecuada"
+      },
+      {
+        "en": "Reefer off or creep risk controlled; floor not slick",
+        "es": "Refrigeración apagada o riesgo de movimiento controlado; piso no resbaloso"
+      },
+      {
+        "en": "Dock edge clear of product and debris",
+        "es": "Borde del muelle libre de producto y escombros"
+      }
+    ]
+  },
+  {
+    "id": "CL-001-2",
+    "department": "Receiving",
+    "title": {
+      "en": "Daily Receiving Dock Safety",
+      "es": "Seguridad Diaria del Muelle de Recepción"
+    },
+    "note": {
+      "en": "Receiving lead, start of each shift.",
+      "es": "Líder de recepción, al inicio de cada turno."
+    },
+    "items": [
+      {
+        "en": "Chocks at every active door; dock locks and lights functional",
+        "es": "Calzas en cada puerta activa; retenciones y luces funcionando"
+      },
+      {
+        "en": "Dock levelers operating; capacity labels legible",
+        "es": "Rampas niveladoras operando; etiquetas de capacidad legibles"
+      },
+      {
+        "en": "Unused dock doors closed or barricaded",
+        "es": "Puertas sin uso cerradas o con barrera"
+      },
+      {
+        "en": "Dock floor clear of dunnage, wrap, banding, broken pallets",
+        "es": "Piso libre de maderas, plástico, fleje y tarimas rotas"
+      },
+      {
+        "en": "Pedestrian walkways marked and clear; hi-vis vests in use",
+        "es": "Pasillos peatonales marcados y libres; chalecos en uso"
+      },
+      {
+        "en": "Staging orderly; no leaning or unstable stacks",
+        "es": "Área de espera ordenada; sin estibas inclinadas o inestables"
+      },
+      {
+        "en": "Chemical quarantine area available; spill kit stocked",
+        "es": "Área de cuarentena química disponible; kit de derrames completo"
+      },
+      {
+        "en": "SDS access (binder/terminal) functional",
+        "es": "Acceso a SDS (carpeta/terminal) funcional"
+      },
+      {
+        "en": "PIT daily inspections completed for all trucks in use",
+        "es": "Inspecciones diarias completadas para todos los montacargas en uso"
+      },
+      {
+        "en": "Fire extinguishers charged and accessible; exits clear",
+        "es": "Extintores cargados y accesibles; salidas libres"
+      },
+      {
+        "en": "First-aid kit stocked; eyewash functional",
+        "es": "Botiquín completo; lavaojos funcional"
+      },
+      {
+        "en": "Dock and portable trailer lights working",
+        "es": "Luces del muelle y portátiles funcionando"
+      }
+    ]
+  },
+  {
+    "id": "CL-002-1",
+    "department": "Inventory",
+    "title": {
+      "en": "Monthly Rack & Storage Inspection",
+      "es": "Inspección Mensual de Estanterías y Almacén"
+    },
+    "note": {
+      "en": "Inventory lead, monthly and after any rack strike.",
+      "es": "Líder de inventario, mensual y después de cualquier golpe a estantería."
+    },
+    "items": [
+      {
+        "en": "Capacity placards present and legible on all bays",
+        "es": "Placas de capacidad presentes y legibles en todas las bahías"
+      },
+      {
+        "en": "Uprights: no dents, bends, twists; column protectors in place",
+        "es": "Postes: sin abolladuras, dobleces, torceduras; protectores en su lugar"
+      },
+      {
+        "en": "Beams fully seated; safety clips/pins in place",
+        "es": "Vigas bien asentadas; seguros/pasadores en su lugar"
+      },
+      {
+        "en": "Anchor bolts present and tight at all baseplates",
+        "es": "Anclajes presentes y apretados en todas las bases"
+      },
+      {
+        "en": "Pallets centered on both rails; none broken or overhanging",
+        "es": "Tarimas centradas en ambos rieles; ninguna rota o sobresaliendo"
+      },
+      {
+        "en": "No overloaded bays; heaviest loads at lowest levels",
+        "es": "Sin bahías sobrecargadas; lo más pesado en los niveles bajos"
+      },
+      {
+        "en": "Flue spaces open; 18 in. sprinkler clearance",
+        "es": "Espacios de ventilación abiertos; 18 pulgadas libres bajo rociadores"
+      },
+      {
+        "en": "Aisles clear; no debris or broken pallets on floor",
+        "es": "Pasillos libres; sin escombros ni tarimas rotas en el piso"
+      },
+      {
+        "en": "Mirrors at blind corners clean and aimed",
+        "es": "Espejos de esquinas ciegas limpios y orientados"
+      },
+      {
+        "en": "Pedestrian walkway markings visible",
+        "es": "Marcas de pasillos peatonales visibles"
+      },
+      {
+        "en": "Battery area: eyewash works, ventilation on, PPE present",
+        "es": "Área de baterías: lavaojos funciona, ventilación encendida, EPP presente"
+      },
+      {
+        "en": "Ladders/rolling stairs inspected; damaged units tagged out",
+        "es": "Escaleras inspeccionadas; unidades dañadas fuera de servicio"
+      },
+      {
+        "en": "Exit routes clear; exit signs illuminated",
+        "es": "Rutas de salida libres; letreros de salida iluminados"
+      },
+      {
+        "en": "Fire extinguishers accessible, charged, tags current",
+        "es": "Extintores accesibles, cargados, etiquetas vigentes"
+      }
+    ]
+  },
+  {
+    "id": "CL-002-2",
+    "department": "Inventory",
+    "title": {
+      "en": "Order Picker / Reach Truck Daily Pre-Op",
+      "es": "Inspección Diaria de Recogedor / Retráctil"
+    },
+    "note": {
+      "en": "Each shift before use. Record unit # in the Unit field.",
+      "es": "Cada turno antes de usar. Anote el número de unidad en el campo Unidad."
+    },
+    "items": [
+      {
+        "en": "Harness/lanyard: no cuts or fraying; anchor point secure",
+        "es": "Arnés/cuerda: sin cortes ni deshilachado; anclaje seguro"
+      },
+      {
+        "en": "Platform gate/chains functional",
+        "es": "Puerta/cadenas de plataforma funcionales"
+      },
+      {
+        "en": "Forks/platform: no cracks or bends",
+        "es": "Horquillas/plataforma: sin grietas ni dobleces"
+      },
+      {
+        "en": "Mast, chains, hoses: no damage or leaks; lift smooth",
+        "es": "Mástil, cadenas, mangueras: sin daño ni fugas; elevación suave"
+      },
+      {
+        "en": "Brakes and deadman pedal functional",
+        "es": "Frenos y pedal de hombre muerto funcionales"
+      },
+      {
+        "en": "Steering responsive",
+        "es": "Dirección responde bien"
+      },
+      {
+        "en": "Horn, lights, travel alarm functional",
+        "es": "Bocina, luces y alarma de traslado funcionales"
+      },
+      {
+        "en": "Battery: charge, connector condition, retainer engaged",
+        "es": "Batería: carga, estado del conector, retén asegurado"
+      },
+      {
+        "en": "Tires/wheels in good condition",
+        "es": "Llantas/ruedas en buen estado"
+      },
+      {
+        "en": "Data plate legible; capacity adequate for task",
+        "es": "Placa de datos legible; capacidad adecuada para la tarea"
+      },
+      {
+        "en": "Operator compartment clean; no loose items",
+        "es": "Compartimiento del operador limpio; sin objetos sueltos"
+      }
+    ]
+  },
+  {
+    "id": "CL-003-1",
+    "department": "Quality Control",
+    "title": {
+      "en": "QC Station & Field Safety (Weekly)",
+      "es": "Seguridad de Estación y Campo de CC (Semanal)"
+    },
+    "note": {
+      "en": "QC lead, weekly.",
+      "es": "Líder de CC, semanal."
+    },
+    "items": [
+      {
+        "en": "Hi-vis vests available and serviceable",
+        "es": "Chalecos de alta visibilidad disponibles y en buen estado"
+      },
+      {
+        "en": "Platform ladders inspected; labels legible",
+        "es": "Escaleras de plataforma inspeccionadas; etiquetas legibles"
+      },
+      {
+        "en": "Safety knives functional; blade disposal container available",
+        "es": "Cuchillos de seguridad funcionales; contenedor de navajas disponible"
+      },
+      {
+        "en": "Cut-resistant gloves and safety glasses stocked",
+        "es": "Guantes anticorte y lentes de seguridad disponibles"
+      },
+      {
+        "en": "All reagents labeled; none stored above eye level",
+        "es": "Todos los reactivos etiquetados; ninguno arriba del nivel de los ojos"
+      },
+      {
+        "en": "SDS binder/terminal current and accessible",
+        "es": "Carpeta/terminal de SDS actualizada y accesible"
+      },
+      {
+        "en": "Eyewash accessible, flushed per schedule, tag current",
+        "es": "Lavaojos accesible, purgado según programa, etiqueta vigente"
+      },
+      {
+        "en": "First-aid kit stocked; signage visible",
+        "es": "Botiquín completo; señalización visible"
+      },
+      {
+        "en": "Current greenhouse REI notices reviewed",
+        "es": "Avisos REI vigentes del invernadero revisados"
+      },
+      {
+        "en": "Sample cart wheels/handles in good condition",
+        "es": "Ruedas/asas de carritos de muestras en buen estado"
+      },
+      {
+        "en": "Work areas clean; no trip hazards; cords managed",
+        "es": "Áreas limpias; sin riesgos de tropiezo; cables ordenados"
+      },
+      {
+        "en": "Cooler PPE (insulated jackets/gloves) in good repair",
+        "es": "EPP de cámara fría (chamarras/guantes térmicos) en buen estado"
+      }
+    ]
+  },
+  {
+    "id": "CL-004-1",
+    "department": "Packing",
+    "title": {
+      "en": "Daily Packing Area Safety (Start of Shift)",
+      "es": "Seguridad Diaria del Área de Empaque (Inicio de Turno)"
+    },
+    "note": {
+      "en": "Packing lead, start of each shift.",
+      "es": "Líder de empaque, al inicio de cada turno."
+    },
+    "items": [
+      {
+        "en": "Aisles and emergency exits clear",
+        "es": "Pasillos y salidas de emergencia libres"
+      },
+      {
+        "en": "Floors dry, free of wrap/banding/cardboard debris",
+        "es": "Pisos secos, sin plástico/fleje/cartón"
+      },
+      {
+        "en": "Pedestrian walkways and PIT lanes clearly marked",
+        "es": "Pasillos peatonales y carriles de montacargas bien marcados"
+      },
+      {
+        "en": "All conveyor/machine guards in place and undamaged",
+        "es": "Todas las guardas de transportadores/máquinas puestas y sin daño"
+      },
+      {
+        "en": "E-stops verified accessible at each pack station",
+        "es": "Paros de emergencia accesibles en cada estación"
+      },
+      {
+        "en": "Stretch wrapper area clear; turntable unobstructed",
+        "es": "Área de enfajadora libre; tornamesa sin obstrucciones"
+      },
+      {
+        "en": "Safety knives in good condition; blade container not overfull",
+        "es": "Cuchillos en buen estado; contenedor de navajas no lleno"
+      },
+      {
+        "en": "Cut-resistant gloves and PPE available at stations",
+        "es": "Guantes anticorte y EPP disponibles en las estaciones"
+      },
+      {
+        "en": "All chemical containers labeled; SDS access verified",
+        "es": "Envases químicos etiquetados; acceso a SDS verificado"
+      },
+      {
+        "en": "Fire extinguishers accessible, charged, tags current",
+        "es": "Extintores accesibles, cargados, etiquetas vigentes"
+      },
+      {
+        "en": "Electrical panels: 36 in. clearance",
+        "es": "Tableros eléctricos: 36 pulgadas (90 cm) de espacio libre"
+      },
+      {
+        "en": "Pallet stacks stable, ≤ 6 ft; damaged pallets removed",
+        "es": "Estibas de tarimas estables, ≤ 6 pies (1.8 m); tarimas dañadas retiradas"
+      },
+      {
+        "en": "Anti-fatigue mats flat and undamaged",
+        "es": "Tapetes antifatiga planos y sin daño"
+      },
+      {
+        "en": "Lighting adequate over work stations",
+        "es": "Iluminación adecuada sobre las estaciones"
+      }
+    ]
+  },
+  {
+    "id": "CL-005-1",
+    "department": "Shipping",
+    "title": {
+      "en": "Forklift / PIT Daily Pre-Operation",
+      "es": "Inspección Diaria de Montacargas"
+    },
+    "note": {
+      "en": "Each shift before use (OSHA 1910.178(q)(7)). One per truck per shift.",
+      "es": "Cada turno antes de usar (OSHA 1910.178(q)(7)). Una por equipo por turno."
+    },
+    "items": [
+      {
+        "en": "Forks: no cracks or bends; pins secure",
+        "es": "Horquillas: sin grietas ni dobleces; pasadores seguros"
+      },
+      {
+        "en": "Mast, chains, hoses: no damage or leaks; lift/tilt smooth",
+        "es": "Mástil, cadenas, mangueras: sin daño ni fugas; elevación/inclinación suave"
+      },
+      {
+        "en": "Tires/wheels: condition and pressure",
+        "es": "Llantas/ruedas: estado y presión"
+      },
+      {
+        "en": "Overhead guard and load backrest secure",
+        "es": "Guarda superior y respaldo de carga firmes"
+      },
+      {
+        "en": "Seat belt present and functional",
+        "es": "Cinturón presente y funcional"
+      },
+      {
+        "en": "Service and parking brakes work",
+        "es": "Frenos de servicio y estacionamiento funcionan"
+      },
+      {
+        "en": "Steering responsive",
+        "es": "Dirección responde bien"
+      },
+      {
+        "en": "Horn, lights, backup alarm functional",
+        "es": "Bocina, luces y alarma de reversa funcionales"
+      },
+      {
+        "en": "Battery/LP: charge or fuel, connections, cylinder secured",
+        "es": "Batería/gas LP: carga o combustible, conexiones, cilindro asegurado"
+      },
+      {
+        "en": "No hydraulic leaks under truck",
+        "es": "Sin fugas hidráulicas bajo el equipo"
+      },
+      {
+        "en": "Data plate legible",
+        "es": "Placa de datos legible"
+      },
+      {
+        "en": "Fire extinguisher (if mounted) charged and secured",
+        "es": "Extintor (si lo lleva) cargado y asegurado"
+      }
+    ]
+  },
+  {
+    "id": "CL-005-2",
+    "department": "Shipping",
+    "title": {
+      "en": "Daily Dock Safety (Shipping)",
+      "es": "Seguridad Diaria del Muelle (Embarque)"
+    },
+    "note": {
+      "en": "Shipping lead, start of each shift.",
+      "es": "Líder de embarque, al inicio de cada turno."
+    },
+    "items": [
+      {
+        "en": "Wheel chocks at every active door; dock locks functional",
+        "es": "Calzas en cada puerta activa; retenciones funcionales"
+      },
+      {
+        "en": "Dock light system (red/green) working at each door",
+        "es": "Sistema de luces (roja/verde) funcionando en cada puerta"
+      },
+      {
+        "en": "Dock levelers seated; capacity labels legible",
+        "es": "Rampas asentadas; etiquetas de capacidad legibles"
+      },
+      {
+        "en": "Doors closed or barriered where no trailer is spotted",
+        "es": "Puertas cerradas o con barrera donde no hay remolque"
+      },
+      {
+        "en": "Dock edge clear of stored material",
+        "es": "Borde del muelle libre de material"
+      },
+      {
+        "en": "Pedestrian walkways unobstructed",
+        "es": "Pasillos peatonales sin obstrucciones"
+      },
+      {
+        "en": "Staging lanes orderly; loads wrapped and stable",
+        "es": "Carriles de preparación ordenados; cargas enfajadas y estables"
+      },
+      {
+        "en": "Load bars/straps available and in good condition",
+        "es": "Barras/correas disponibles y en buen estado"
+      },
+      {
+        "en": "Dock stairs and handrails in good condition",
+        "es": "Escaleras y barandales del muelle en buen estado"
+      },
+      {
+        "en": "Dock and trailer-interior lighting functional",
+        "es": "Iluminación del muelle e interior de remolques funcional"
+      },
+      {
+        "en": "Extinguishers accessible and charged; exits clear",
+        "es": "Extintores accesibles y cargados; salidas libres"
+      },
+      {
+        "en": "Hi-vis vests worn by all dock/yard personnel",
+        "es": "Chalecos usados por todo el personal de muelle/patio"
+      },
+      {
+        "en": "Drivers in waiting area; no unauthorized persons on dock",
+        "es": "Choferes en el área de espera; sin personas no autorizadas"
+      },
+      {
+        "en": "No trucks idling against open dock doors",
+        "es": "Sin camiones con motor encendido contra puertas abiertas"
+      }
+    ]
+  },
+  {
+    "id": "CL-006-1",
+    "department": "Greenhouse",
+    "title": {
+      "en": "Daily Greenhouse Safety (Hot Season)",
+      "es": "Seguridad Diaria del Invernadero (Temporada de Calor)"
+    },
+    "note": {
+      "en": "Greenhouse lead, daily in hot season (weekly otherwise).",
+      "es": "Líder de invernadero, diario en temporada de calor (semanal el resto del año)."
+    },
+    "items": [
+      {
+        "en": "Heat index checked and posted; water/rest schedule communicated",
+        "es": "Índice de calor revisado y publicado; horario de agua/descansos comunicado"
+      },
+      {
+        "en": "Cool drinking water stationed in each zone",
+        "es": "Agua fresca disponible en cada zona"
+      },
+      {
+        "en": "Shaded or cooled break area set up",
+        "es": "Área de descanso con sombra o enfriamiento lista"
+      },
+      {
+        "en": "Buddy assignments made for high-heat zones (HI ≥ 90°F)",
+        "es": "Compañeros asignados para zonas de calor alto (índice ≥ 90°F/32°C)"
+      },
+      {
+        "en": "Pesticide central posting current; REI zones flagged",
+        "es": "Aviso central de pesticidas vigente; zonas REI señalizadas"
+      },
+      {
+        "en": "Decontamination station stocked (water, soap, towels, eye-flush)",
+        "es": "Estación de descontaminación completa (agua, jabón, toallas, lavaojos)"
+      },
+      {
+        "en": "Walkways clear of hoses and drip lines; grates in place",
+        "es": "Pasillos sin mangueras ni líneas de goteo; rejillas en su lugar"
+      },
+      {
+        "en": "GFCI receptacles intact; no damaged cords",
+        "es": "Contactos GFCI intactos; sin cables dañados"
+      },
+      {
+        "en": "Machine guards in place on mixers/fillers/conveyors",
+        "es": "Guardas puestas en mezcladoras/llenadoras/transportadores"
+      },
+      {
+        "en": "Ladders inspected; damaged units tagged out",
+        "es": "Escaleras inspeccionadas; unidades dañadas fuera de servicio"
+      },
+      {
+        "en": "First-aid kit stocked; emergency numbers posted",
+        "es": "Botiquín completo; números de emergencia publicados"
+      },
+      {
+        "en": "Exit aisles clear; fans/vents/curtains operating",
+        "es": "Pasillos de salida libres; ventiladores/cortinas operando"
+      },
+      {
+        "en": "Chemical storage locked; containers labeled; compatible storage",
+        "es": "Almacén químico cerrado; envases etiquetados; almacenamiento compatible"
+      },
+      {
+        "en": "Gloves, eye protection, hats/sunscreen available",
+        "es": "Guantes, protección ocular, sombreros/bloqueador disponibles"
+      }
+    ]
+  },
+  {
+    "id": "CL-006-2",
+    "department": "Greenhouse",
+    "title": {
+      "en": "Pesticide Handler Pre-Application",
+      "es": "Pre-Aplicación del Manejador de Pesticidas"
+    },
+    "note": {
+      "en": "Certified handler/supervisor before each application.",
+      "es": "Manejador/supervisor certificado antes de cada aplicación."
+    },
+    "items": [
+      {
+        "en": "Label reviewed: rate, PPE, REI, ventilation criteria",
+        "es": "Etiqueta revisada: dosis, EPP, REI, criterios de ventilación"
+      },
+      {
+        "en": "Handler training and respirator fit test current",
+        "es": "Capacitación de manejador y prueba de ajuste de respirador vigentes"
+      },
+      {
+        "en": "Label-required PPE inspected and donned",
+        "es": "EPP exigido por la etiqueta inspeccionado y puesto"
+      },
+      {
+        "en": "Application equipment inspected; no leaks; calibrated",
+        "es": "Equipo de aplicación inspeccionado; sin fugas; calibrado"
+      },
+      {
+        "en": "Workers notified; treated-area postings at all entrances",
+        "es": "Trabajadores avisados; letreros en todas las entradas del área tratada"
+      },
+      {
+        "en": "Central display updated (product, location, time, REI)",
+        "es": "Aviso central actualizado (producto, lugar, hora, REI)"
+      },
+      {
+        "en": "Decontamination and eye-flush staged at mix/load site",
+        "es": "Descontaminación y lavaojos listos en el sitio de mezcla/carga"
+      },
+      {
+        "en": "Mix/load area: spill kit present; no food/drink",
+        "es": "Área de mezcla: kit de derrames presente; sin alimentos/bebidas"
+      },
+      {
+        "en": "Weather/ventilation acceptable per label",
+        "es": "Clima/ventilación aceptables según la etiqueta"
+      },
+      {
+        "en": "Post-application: REI enforced; PPE cleaned; wash-up done",
+        "es": "Post-aplicación: REI vigente; EPP limpio; aseo personal completado"
+      }
+    ]
+  },
+  {
+    "id": "CL-007-1",
+    "department": "Maintenance",
+    "title": {
+      "en": "LOTO Periodic Inspection (Annual per Procedure)",
+      "es": "Inspección Periódica de Bloqueo/Etiquetado (Anual por Procedimiento)"
+    },
+    "note": {
+      "en": "One per equipment-specific procedure per year (1910.147(c)(6)).",
+      "es": "Una por procedimiento específico de equipo por año (1910.147(c)(6))."
+    },
+    "items": [
+      {
+        "en": "Written procedure current and matches equipment",
+        "es": "Procedimiento escrito vigente y acorde al equipo"
+      },
+      {
+        "en": "All energy sources identified in the procedure",
+        "es": "Todas las fuentes de energía identificadas en el procedimiento"
+      },
+      {
+        "en": "Shutdown sequence followed correctly",
+        "es": "Secuencia de apagado seguida correctamente"
+      },
+      {
+        "en": "All isolation devices located and operated",
+        "es": "Todos los dispositivos de aislamiento ubicados y operados"
+      },
+      {
+        "en": "Personal lock AND tag applied by each authorized employee",
+        "es": "Candado Y etiqueta personales puestos por cada empleado autorizado"
+      },
+      {
+        "en": "Stored energy released/restrained",
+        "es": "Energía almacenada liberada/contenida"
+      },
+      {
+        "en": "Zero-energy verification (start attempt) performed",
+        "es": "Verificación de energía cero (intento de arranque) realizada"
+      },
+      {
+        "en": "Employee explains restoration steps and notifications",
+        "es": "El empleado explica los pasos de restauración y avisos"
+      },
+      {
+        "en": "Locks/tags/devices in good condition and standardized",
+        "es": "Candados/etiquetas/dispositivos en buen estado y estandarizados"
+      },
+      {
+        "en": "Deviations corrected and retraining documented",
+        "es": "Desviaciones corregidas y recapacitación documentada"
+      }
+    ]
+  },
+  {
+    "id": "CL-007-2",
+    "department": "Maintenance",
+    "title": {
+      "en": "Weekly Maintenance Shop & Systems Safety",
+      "es": "Seguridad Semanal del Taller y Sistemas"
+    },
+    "note": {
+      "en": "Maintenance supervisor, weekly.",
+      "es": "Supervisor de mantenimiento, semanal."
+    },
+    "items": [
+      {
+        "en": "LOTO station stocked: locks, tags, hasps, devices",
+        "es": "Estación LOTO completa: candados, etiquetas, portacandados, dispositivos"
+      },
+      {
+        "en": "Equipment-specific LOTO procedures accessible",
+        "es": "Procedimientos LOTO por equipo accesibles"
+      },
+      {
+        "en": "Electrical panels: clearance, closed, circuits labeled",
+        "es": "Tableros: espacio libre, cerrados, circuitos etiquetados"
+      },
+      {
+        "en": "Cords/tools inspected; damaged tagged out; GFCIs tested monthly",
+        "es": "Cables/herramientas inspeccionados; dañados fuera de servicio; GFCI probados mensualmente"
+      },
+      {
+        "en": "Ladders inspected; damaged units tagged out",
+        "es": "Escaleras inspeccionadas; dañadas fuera de servicio"
+      },
+      {
+        "en": "Harnesses/lanyards inspected; tags current",
+        "es": "Arneses/cuerdas inspeccionados; etiquetas vigentes"
+      },
+      {
+        "en": "Hot work permits filed; welding area clear; fire watch extinguisher staged",
+        "es": "Permisos de trabajo en caliente archivados; área de soldadura libre; extintor del vigilante listo"
+      },
+      {
+        "en": "Cylinders secured upright, capped; oxygen/fuel separated",
+        "es": "Cilindros asegurados verticales, con tapa; oxígeno/combustible separados"
+      },
+      {
+        "en": "Battery area: ventilation, eyewash, PPE, no-flame signs",
+        "es": "Área de baterías: ventilación, lavaojos, EPP, letreros de no flama"
+      },
+      {
+        "en": "Flammables in approved cabinet; chemicals labeled; SDS verified",
+        "es": "Inflamables en gabinete aprobado; químicos etiquetados; SDS verificadas"
+      },
+      {
+        "en": "Confined space labels in place; permits/equipment ready",
+        "es": "Letreros de espacios confinados puestos; permisos/equipo listos"
+      },
+      {
+        "en": "Guards reinstalled on all equipment returned to service",
+        "es": "Guardas reinstaladas en todo equipo regresado a servicio"
+      },
+      {
+        "en": "Shop housekeeping: walkways clear, oily rags in covered metal can",
+        "es": "Orden del taller: pasillos libres, trapos con aceite en bote metálico tapado"
+      },
+      {
+        "en": "First-aid kit stocked; emergency numbers posted",
+        "es": "Botiquín completo; números de emergencia publicados"
+      }
+    ]
+  },
+  {
+    "id": "CL-008-1",
+    "department": "Drivers / Transportation",
+    "title": {
+      "en": "Driver Daily Pre-Trip (DVIR-Compatible)",
+      "es": "Pre-Viaje Diario del Chofer (Compatible con DVIR)"
+    },
+    "note": {
+      "en": "Before the first trip each day (49 CFR 396.13). Record vehicle # in Unit.",
+      "es": "Antes del primer viaje del día (49 CFR 396.13). Anote el número de vehículo en Unidad."
+    },
+    "items": [
+      {
+        "en": "Service and parking brakes (test before moving)",
+        "es": "Frenos de servicio y estacionamiento (probar antes de mover)"
+      },
+      {
+        "en": "Steering: no excessive play",
+        "es": "Dirección: sin juego excesivo"
+      },
+      {
+        "en": "Lights and reflectors: all functional",
+        "es": "Luces y reflejantes: todos funcionando"
+      },
+      {
+        "en": "Tires: tread, inflation, no damage; lugs tight",
+        "es": "Llantas: dibujo, presión, sin daño; birlos apretados"
+      },
+      {
+        "en": "Mirrors and windshield clean and intact; wipers work",
+        "es": "Espejos y parabrisas limpios e intactos; limpiadores funcionan"
+      },
+      {
+        "en": "Horn works",
+        "es": "Bocina funciona"
+      },
+      {
+        "en": "Coupling / fifth wheel / safety chains secure",
+        "es": "Acoplamiento / quinta rueda / cadenas de seguridad firmes"
+      },
+      {
+        "en": "Liftgate operates smoothly; capacity placard legible",
+        "es": "Plataforma opera suave; placa de capacidad legible"
+      },
+      {
+        "en": "Cargo securement gear serviceable; load blocked and braced",
+        "es": "Equipo de sujeción en buen estado; carga bloqueada y apuntalada"
+      },
+      {
+        "en": "Doors and latches functional; floor sound",
+        "es": "Puertas y seguros funcionales; piso firme"
+      },
+      {
+        "en": "Emergency kit: triangles, extinguisher, first aid, spill pads",
+        "es": "Kit de emergencia: triángulos, extintor, botiquín, absorbentes"
+      },
+      {
+        "en": "Reefer (if equipped): set point and fuel",
+        "es": "Refrigeración (si aplica): temperatura y combustible"
+      },
+      {
+        "en": "No leaks under vehicle; fuel adequate",
+        "es": "Sin fugas bajo el vehículo; combustible suficiente"
+      },
+      {
+        "en": "Registration, insurance, medical cert; ELD logged in",
+        "es": "Registro, seguro, certificado médico; ELD iniciado"
+      },
+      {
+        "en": "Cab clean; nothing blocking pedals/mirrors; belt works",
+        "es": "Cabina limpia; nada bloquea pedales/espejos; cinturón funciona"
+      }
+    ]
+  },
+  {
+    "id": "CL-008-2",
+    "department": "Drivers / Transportation",
+    "title": {
+      "en": "Delivery Site Safety (Per Stop)",
+      "es": "Seguridad en Sitio de Entrega (Por Parada)"
+    },
+    "note": {
+      "en": "Mental check each stop; submit only when an issue needs reporting.",
+      "es": "Revisión mental en cada parada; envíe solo cuando haya un problema que reportar."
+    },
+    "items": [
+      {
+        "en": "Parked clear of traffic; brake set; hazards if required",
+        "es": "Estacionado fuera del tráfico; freno puesto; intermitentes si se requiere"
+      },
+      {
+        "en": "Backing path walked (G.O.A.L.); spotter used if available",
+        "es": "Ruta de reversa caminada (G.O.A.L.); señalero si hay"
+      },
+      {
+        "en": "Hi-vis vest on before exiting vehicle",
+        "es": "Chaleco puesto antes de bajar del vehículo"
+      },
+      {
+        "en": "Ground at liftgate firm and level",
+        "es": "Piso en la plataforma firme y nivelado"
+      },
+      {
+        "en": "Walk path checked: ice, debris, uneven surfaces, lighting",
+        "es": "Ruta a pie revisada: hielo, escombros, desniveles, iluminación"
+      },
+      {
+        "en": "Customer dock: trailer restrained before dock plate set",
+        "es": "Muelle del cliente: remolque asegurado antes de poner la rampa"
+      },
+      {
+        "en": "Doors opened from the side; load checked for shift",
+        "es": "Puertas abiertas desde el costado; carga revisada"
+      },
+      {
+        "en": "Hand truck loaded below sight line; heavy items split",
+        "es": "Diablito cargado bajo la línea de visión; lo pesado dividido"
+      },
+      {
+        "en": "Remaining freight re-secured before departure",
+        "es": "Carga restante reasegurada antes de salir"
+      },
+      {
+        "en": "Doors latched; liftgate stowed and locked before driving",
+        "es": "Puertas cerradas; plataforma guardada y asegurada antes de manejar"
+      }
+    ]
+  },
+  {
+    "id": "CL-009-1",
+    "department": "All Departments",
+    "title": {
+      "en": "Investigator's Scene Checklist",
+      "es": "Lista del Investigador en la Escena"
+    },
+    "note": {
+      "en": "Start within 24 hours; same shift for serious events.",
+      "es": "Inicie dentro de 24 horas; mismo turno para eventos graves."
+    },
+    "items": [
+      {
+        "en": "Injured person(s) cared for; medical status documented",
+        "es": "Lesionados atendidos; estado médico documentado"
+      },
+      {
+        "en": "Scene secured/barricaded; hazards controlled",
+        "es": "Escena asegurada/con barreras; peligros controlados"
+      },
+      {
+        "en": "Scene photographed from multiple angles BEFORE items moved",
+        "es": "Escena fotografiada desde varios ángulos ANTES de mover algo"
+      },
+      {
+        "en": "Sketch/measurements completed",
+        "es": "Croquis/mediciones completados"
+      },
+      {
+        "en": "Physical evidence retained",
+        "es": "Evidencia física conservada"
+      },
+      {
+        "en": "Camera/CCTV footage saved before overwrite",
+        "es": "Video de cámaras guardado antes de sobrescribirse"
+      },
+      {
+        "en": "Witnesses identified; statements taken individually",
+        "es": "Testigos identificados; declaraciones tomadas individualmente"
+      },
+      {
+        "en": "Equipment inspection/maintenance records pulled",
+        "es": "Registros de inspección/mantenimiento del equipo obtenidos"
+      },
+      {
+        "en": "Training records of involved employees pulled",
+        "es": "Registros de capacitación de los involucrados obtenidos"
+      },
+      {
+        "en": "Environmental conditions documented",
+        "es": "Condiciones ambientales documentadas"
+      },
+      {
+        "en": "Sequence of events reconstructed and confirmed",
+        "es": "Secuencia de eventos reconstruida y confirmada"
+      },
+      {
+        "en": "5-Whys RCA completed for each direct cause",
+        "es": "Análisis de 5 porqués completado para cada causa directa"
+      },
+      {
+        "en": "All six contributing-factor categories considered",
+        "es": "Las seis categorías de factores consideradas"
+      },
+      {
+        "en": "Corrective actions defined — SMART, logged in tracker",
+        "es": "Acciones correctivas definidas — SMART, registradas"
+      },
+      {
+        "en": "Interim controls in place same day where needed",
+        "es": "Controles provisionales el mismo día donde se requiera"
+      },
+      {
+        "en": "OSHA recordability determined; 1904.39 reporting evaluated",
+        "es": "Registrabilidad OSHA determinada; reporte 1904.39 evaluado"
+      },
+      {
+        "en": "Findings shared; related programs updated",
+        "es": "Hallazgos compartidos; programas relacionados actualizados"
+      }
+    ]
+  },
+  {
+    "id": "CL-010-1",
+    "department": "All Departments",
+    "title": {
+      "en": "Site Compliance by State (Annual)",
+      "es": "Cumplimiento del Sitio por Estado (Anual)"
+    },
+    "note": {
+      "en": "Once per site, reviewed annually. Mark N/A for lines that don't apply to your state.",
+      "es": "Una vez por sede, revisada anualmente. Marque N/A en líneas que no apliquen a su estado."
+    },
+    "items": [
+      {
+        "en": "Correct OSH poster displayed (Federal / VOSH / IOSHA)",
+        "es": "Cartel OSH correcto exhibido (Federal / VOSH / IOSHA)"
+      },
+      {
+        "en": "State workers' comp notice posted with carrier info",
+        "es": "Aviso estatal de compensación laboral con datos de la aseguradora"
+      },
+      {
+        "en": "Emergency sheet shows correct agency (OSHA/VOSH/IOSHA)",
+        "es": "Hoja de emergencia muestra la agencia correcta (OSHA/VOSH/IOSHA)"
+      },
+      {
+        "en": "WC reporting workflow posted at supervisor station",
+        "es": "Flujo de reportes de compensación publicado en la estación del supervisor"
+      },
+      {
+        "en": "NY: WWPA threshold assessed and documented",
+        "es": "NY: umbral de la ley WWPA evaluado y documentado"
+      },
+      {
+        "en": "NY: written Injury Reduction Program current; ergo evaluations filed",
+        "es": "NY: Programa de Reducción de Lesiones vigente; evaluaciones ergonómicas archivadas"
+      },
+      {
+        "en": "NY: quota disclosures issued if quotas used",
+        "es": "NY: divulgaciones de cuotas entregadas si se usan cuotas"
+      },
+      {
+        "en": "VA: backup alarms verified on all backing vehicles; spotters trained",
+        "es": "VA: alarmas de reversa verificadas en todos los vehículos; señaleros capacitados"
+      },
+      {
+        "en": "VA: heat-standard rulemaking review date set (before May 2027)",
+        "es": "VA: fecha de revisión de la norma de calor fijada (antes de mayo 2027)"
+      },
+      {
+        "en": "TX: subscriber/non-subscriber status confirmed; correct notices",
+        "es": "TX: estado de suscriptor confirmado; avisos correctos"
+      },
+      {
+        "en": "PA: panel physician list (6+) posted; acknowledgments on file",
+        "es": "PA: lista del panel médico (6+) publicada; acuses archivados"
+      },
+      {
+        "en": "FL: hurricane EAP annex current; pre-season drill before June 1",
+        "es": "FL: anexo de huracanes vigente; simulacro antes del 1 de junio"
+      },
+      {
+        "en": "Heat program checklist in use at 80°F heat index",
+        "es": "Lista del programa de calor en uso a partir de índice de 80°F (27°C)"
+      },
+      {
+        "en": "Annual legal/carrier verification completed (date recorded)",
+        "es": "Verificación anual legal/aseguradora completada (fecha registrada)"
+      }
+    ]
+  }
+]
