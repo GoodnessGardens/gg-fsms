@@ -1,12 +1,13 @@
 import { NextResponse } from "next/server";
 import { sql } from "../../../../../lib/db";
 import { getSession } from "../../../../../lib/auth";
-import { liveRole, supRole, fsAccess } from "../../../../../lib/roles";
+import { liveRole, supRole, fsAccess, canEdit } from "../../../../../lib/roles";
 
 export async function POST(req, { params }) {
   const s = await getSession();
   if (!s) return NextResponse.json({ error: "Not signed in" }, { status: 401 });
   const role = await liveRole(s);
+  if (!canEdit(role)) return NextResponse.json({ error: "Auditor accounts are read-only" }, { status: 403 });
   const id = Number(params.id);
   const incRows = await sql`SELECT type FROM incidents WHERE id = ${id}`;
   if (!incRows[0]) return NextResponse.json({ error: "Unknown incident" }, { status: 404 });
